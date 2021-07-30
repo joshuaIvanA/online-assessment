@@ -1,3 +1,16 @@
+# Running Anagram (anagram.js)
+
+```
+node anagram.js "['kita', 'atik', 'tika', 'aku', 'kia', 'makan', 'kua']"
+#Expected result
+[
+["kita", "atik", "tika"],
+["aku", "kua"],
+["makan"],
+["kia"]
+]
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
